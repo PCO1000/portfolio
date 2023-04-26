@@ -34,7 +34,7 @@ nav a:hover{
 }
 
 .hero-image{
-    background-image:url("../Images/PINKSky.jpg");
+    background-image:url("../images/PINKSky.jpg");
     height: 50%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,8 @@ nav a:hover{
     width: 20%;
     float: right;
     height: 100%;
-    padding: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
 }
 
 #profile-image{
